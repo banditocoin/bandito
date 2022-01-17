@@ -1,7 +1,7 @@
 Bandito Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/banditocoin/bandito.svg?branch=master)](https://travis-ci.org/banditocoin/bandito)
+[![Build Status](https://travis-ci.com/banditocoin/bandito.svg?branch=master)](https://travis-ci.org/banditocoin/bandito)
 
 https://www.banditocoin.com
 
